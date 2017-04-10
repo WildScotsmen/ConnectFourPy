@@ -2,7 +2,7 @@ from GameLogic import *
 from Parser import *
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" @author Jacob McCloughan
+" @author Scoots
 " @version 3/30/2017
 " @see GameLogic.py
 " @see Parser.py
