@@ -1,7 +1,7 @@
 import cPickle as pickle
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" @author Jacob McCloughan
+" @author Scoots
 " @version 3/30/2017
 " @see https://docs.python.org/2/library/pickle.html
 "
